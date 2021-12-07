@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/NINOSKA2000/LIM015-burger-queen-api-client.git/static/css/main.8eb7d764.chunk.css",
+    "main.js": "/NINOSKA2000/LIM015-burger-queen-api-client.git/static/js/main.60646413.chunk.js",
+    "main.js.map": "/NINOSKA2000/LIM015-burger-queen-api-client.git/static/js/main.60646413.chunk.js.map",
+    "runtime-main.js": "/NINOSKA2000/LIM015-burger-queen-api-client.git/static/js/runtime-main.796ab230.js",
+    "runtime-main.js.map": "/NINOSKA2000/LIM015-burger-queen-api-client.git/static/js/runtime-main.796ab230.js.map",
+    "static/js/2.3c3f6ba0.chunk.js": "/NINOSKA2000/LIM015-burger-queen-api-client.git/static/js/2.3c3f6ba0.chunk.js",
+    "static/js/2.3c3f6ba0.chunk.js.map": "/NINOSKA2000/LIM015-burger-queen-api-client.git/static/js/2.3c3f6ba0.chunk.js.map",
+    "static/js/3.31f9408c.chunk.js": "/NINOSKA2000/LIM015-burger-queen-api-client.git/static/js/3.31f9408c.chunk.js",
+    "static/js/3.31f9408c.chunk.js.map": "/NINOSKA2000/LIM015-burger-queen-api-client.git/static/js/3.31f9408c.chunk.js.map",
+    "index.html": "/NINOSKA2000/LIM015-burger-queen-api-client.git/index.html",
+    "static/css/main.8eb7d764.chunk.css.map": "/NINOSKA2000/LIM015-burger-queen-api-client.git/static/css/main.8eb7d764.chunk.css.map",
+    "static/js/2.3c3f6ba0.chunk.js.LICENSE.txt": "/NINOSKA2000/LIM015-burger-queen-api-client.git/static/js/2.3c3f6ba0.chunk.js.LICENSE.txt",
+    "static/media/Login.css": "/NINOSKA2000/LIM015-burger-queen-api-client.git/static/media/ThekrustyKrab.3ca166d3.png",
+    "static/media/admi.cc75e1be.svg": "/NINOSKA2000/LIM015-burger-queen-api-client.git/static/media/admi.cc75e1be.svg",
+    "static/media/burgerimg.1777543e.svg": "/NINOSKA2000/LIM015-burger-queen-api-client.git/static/media/burgerimg.1777543e.svg",
+    "static/media/chef.adfe2df3.svg": "/NINOSKA2000/LIM015-burger-queen-api-client.git/static/media/chef.adfe2df3.svg",
+    "static/media/iconAdd.bd8dd5ef.svg": "/NINOSKA2000/LIM015-burger-queen-api-client.git/static/media/iconAdd.bd8dd5ef.svg",
+    "static/media/iconAddUser.8b1f8504.svg": "/NINOSKA2000/LIM015-burger-queen-api-client.git/static/media/iconAddUser.8b1f8504.svg",
+    "static/media/iconNegative.24136dcd.svg": "/NINOSKA2000/LIM015-burger-queen-api-client.git/static/media/iconNegative.24136dcd.svg",
+    "static/media/logoutbtn.9acc418f.svg": "/NINOSKA2000/LIM015-burger-queen-api-client.git/static/media/logoutbtn.9acc418f.svg",
+    "static/media/waiter.c71411c2.svg": "/NINOSKA2000/LIM015-burger-queen-api-client.git/static/media/waiter.c71411c2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.796ab230.js",
+    "static/js/2.3c3f6ba0.chunk.js",
+    "static/css/main.8eb7d764.chunk.css",
+    "static/js/main.60646413.chunk.js"
+  ]
+}
