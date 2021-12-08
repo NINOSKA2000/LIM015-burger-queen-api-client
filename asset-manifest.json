@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/NINOSKA2000/LIM015-burger-queen-api-client.git/static/css/main.8eb7d764.chunk.css",
-    "main.js": "/NINOSKA2000/LIM015-burger-queen-api-client.git/static/js/main.60646413.chunk.js",
-    "main.js.map": "/NINOSKA2000/LIM015-burger-queen-api-client.git/static/js/main.60646413.chunk.js.map",
+    "main.js": "/NINOSKA2000/LIM015-burger-queen-api-client.git/static/js/main.8c1be27b.chunk.js",
+    "main.js.map": "/NINOSKA2000/LIM015-burger-queen-api-client.git/static/js/main.8c1be27b.chunk.js.map",
     "runtime-main.js": "/NINOSKA2000/LIM015-burger-queen-api-client.git/static/js/runtime-main.796ab230.js",
     "runtime-main.js.map": "/NINOSKA2000/LIM015-burger-queen-api-client.git/static/js/runtime-main.796ab230.js.map",
     "static/js/2.3c3f6ba0.chunk.js": "/NINOSKA2000/LIM015-burger-queen-api-client.git/static/js/2.3c3f6ba0.chunk.js",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.796ab230.js",
     "static/js/2.3c3f6ba0.chunk.js",
     "static/css/main.8eb7d764.chunk.css",
-    "static/js/main.60646413.chunk.js"
+    "static/js/main.8c1be27b.chunk.js"
   ]
 }
