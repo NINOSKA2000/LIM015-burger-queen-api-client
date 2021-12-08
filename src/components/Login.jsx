@@ -26,7 +26,8 @@ const Login = () => {
   const [datauser, setDatauser] = useState({});
 
   localStorage.setItem('namelogged', datauser.name);
-  const employeeName = localStorage.getItem('namelogged');
+  // const employeeName = localStorage.getItem('namelogged');
+  
 
   useEffect(() => {
     const isUserMatch = (datauser.email === form.email) && form.password;
@@ -42,7 +43,7 @@ const Login = () => {
         setError(true);
       }
     }
-  }, [datauser]);
+  }, [datauser, form.email, form.password, option]);
 
   const handleSelectOption = (event) => {
     setOption(event.target.value);
