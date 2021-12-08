@@ -14,7 +14,8 @@ const MenuItems = ({ products, productType, selectedProduct, setSelectedProduct,
         /*se ejecuta 1 vez despues del renderizado y segun el array de dependencias 
          se ejecuta cada vez que esta cambie */
 
-    }, [productType, products])
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+    }, [productType])
 
     return (
 
