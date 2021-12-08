@@ -43,7 +43,8 @@ const Login = () => {
         setError(true);
       }
     }
-  }, [datauser, form.email, form.password, option]);
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
 
   const handleSelectOption = (event) => {
     setOption(event.target.value);
